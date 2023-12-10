@@ -64,11 +64,10 @@ Make sure you have the following software installed on your machine:
 
 Start the development server:
 
-    ```
+    
     python manage.py runserver
-    ```
-
-    The server will be running at "http://127.0.0.1:8000/".
+    
+  The Development server will be running at `http://127.0.0.1:8000/`
 
 ## API Endpoints
 
