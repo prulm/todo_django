@@ -64,7 +64,7 @@ Make sure you have the following software installed on your machine:
 
 Start the development server:
 
-```bash
+```
 python manage.py runserver
     ```
 
